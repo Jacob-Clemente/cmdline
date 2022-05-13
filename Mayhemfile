@@ -1,0 +1,5 @@
+project: jacob-clemente/cmdline
+target: cmdline
+
+cmds:
+  - cmd: /cmdline --host=@@
